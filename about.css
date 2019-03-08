@@ -1,0 +1,190 @@
+/*===========================Main Div Alignment===============================*/
+div#main_div
+{
+	height: 3000px;
+	width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+}
+/*==========================/Main Div Alignment===============================*/
+
+/*========================About Div Alignment & Edit==========================*/
+	div#div_about_me
+	{
+		width: 600px;
+		height: 562px;
+		background-color: rgb(255, 255, 255, 10%);
+		margin-left: 600px;
+	}
+	/*------------------------------Transsition-------------------------------*/
+	div#div_about_me:hover
+	{
+		background-color: rgb(255, 255, 255, 30%);
+	}
+	/*---------------------Font Color - About Me Line-------------------------*/
+		h1#h1_about_me
+		{
+			color: rgb(0, 0, 0);
+		}
+		p#p_about_me
+		{
+			color: rgb(0, 0, 0);
+		}
+/*=======================/About Div Alignment & Edit==========================*/
+
+/*========================Youtube Div Alignment Edit==========================*/
+	div#div_youtube
+	{
+		width: 600px;
+		height: 562px;
+		background-color: rgb(255, 0, 0, 10%);
+	}
+	/*-----------------------------Transsition--------------------------------*/
+	div#div_youtube:hover
+	{
+		background-color: rgb(255, 0, 0, 30%);
+	}
+	/*-----------------------Font Color - Youtube Line------------------------*/
+		h1#h1_youtube
+		{
+			color: rgb(255, 0, 0);
+		}
+		p#p_youtube
+		{
+			color: rgb(255, 255, 255);
+		}
+/*=======================/Youtube Div Alignment Edit==========================*/
+
+/*=========================FB page Div Alignment Edit=========================*/
+	div#div_fb_page
+	{
+		width: 600px;
+		height: 562px;
+		background-color: rgb(0, 0, 255, 10%);
+		margin-left: 600px;
+	}
+	/*----------------------------Transsition---------------------------------*/
+	div#div_fb_page:hover
+	{
+		background-color: rgb(0, 0, 255, 30%);
+	}
+	/*------------------------Font Color - FB Page Line-----------------------*/
+		h1#h1_fb_page
+		{
+			color: rgb(0, 0, 255);
+		}
+		p#p_fb_page
+		{
+			color: rgb(255, 255, 255);
+		}
+/*========================/FB page Div Alignment Edit=========================*/
+
+/*=========================Youtube Div Alignment Edit=========================*/
+	div#div_instagram
+	{
+		width: 600px;
+		height: 562px;
+		background-color: rgb(255, 255, 0, 10%);
+	}
+	/*----------------------------Transsition---------------------------------*/
+	div#div_instagram:hover
+	{
+		background-color: rgb(255, 255, 0, 30%);
+	}
+	/*--------------------Font Color - Instagram Line-------------------------*/
+		h1#h1_instagram
+		{
+			color: rgb(255, 255, 0);
+		}
+		p#p_instagram
+		{
+			color: rgb(255, 255, 255);
+		}
+/*========================/Youtube Div Alignment Edit=========================*/
+
+/*========================Twitter Div Alignment Edit==========================*/
+	div#div_twitter
+	{
+		width: 600px;
+		height: 562px;
+		background-color: rgb(38, 180, 255, 10%);
+		margin-left: 600px;
+	}
+	/*-----------------------------Transsition--------------------------------*/
+	div#div_twitter:hover
+	{
+		background-color: rgb(38, 180, 255, 30%);
+	}
+	/*----------------------Font Color - TwitterLine--------------------------*/
+		h1#h1_twitter
+		{
+			color: rgb(38, 180, 255);
+		}
+		p#p_twitter
+		{
+			color: rgb(255, 255, 255);
+		}
+/*=======================/Twitter Div Alignment Edit==========================*/
+
+/*===========================Headding Color & Font============================*/
+h1.headding
+{
+	text-align: center;
+	padding-top: 40px;
+	font-variant: small-caps;
+	font-family: Marker Felt, fantasy;
+	font-size: 90px;
+}
+	/*-----------------------------Transsition--------------------------------*/
+	h1.headding:hover
+		{
+			font-size: 110px;
+		}
+/*==========================/Headding Color & Font============================*/
+
+/*==============================P Color & Font================================*/
+p.p_data
+{
+	text-align: center;
+	font-family: Bradley Hand, cursive;
+	font-size: 20px;
+	padding-top: 20px;
+}
+	/*---------------------------Transsition----------------------------------*/
+	p.p_data:hover
+		{
+			font-size: 25px;
+		}
+/*=============================/P Color & Font================================*/
+
+/*==============================Link For Web==================================*/
+a.link_for_web:link
+{
+	text-decoration: none;
+}
+/*=============================/Link For Web==================================*/
+
+/*============================Content Text Edit================================*/
+h1#h1_content
+{
+	color: rgb(255, 255, 255);
+	font-size: 50px;
+	font-family: Chalkduster, fantasy;
+	padding-left: 30px;
+	padding-top: 20px;
+}
+p#p_content
+{
+	color: rgb(255, 255, 255);
+	font-size: 30px;
+	font-family: OCR A Std, monospace;
+	padding-left: 30px;
+}
+/*===========================/Content Text Edit================================*/
+
+/*=============================Content Div Edit================================*/
+div#content
+{
+	height: 350px;
+}
+/*============================/Content Div Edit================================*/
